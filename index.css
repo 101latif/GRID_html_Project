@@ -20,7 +20,8 @@
     padding: 20px 0;
     display: flex;
     flex-direction: row;
-    justify-content: space-around;
+    justify-content: space-evenly;
+  
   }
   .links{
     grid-column: 2;
